@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CGuennoc
-- 👀 I’m interested in web maping
+- 👀 I’m interested in web mapping
 
 
 <!---
